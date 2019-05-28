@@ -1,0 +1,7 @@
+virtual/
+.vscode/
+__pycache__/
+db.sqlite3
+.env
+wagtail-media/bisonchips_site
+/media
